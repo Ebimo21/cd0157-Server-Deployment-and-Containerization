@@ -87,3 +87,4 @@ Completing the project involves several steps:
 
 For more detail about each of these steps, see the project lesson.
 Minor change
+Yet another Minor change
